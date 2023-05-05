@@ -1,2 +1,9 @@
-# bank4all-blockathon2023Frontend
-This repo dedicate specifically for SCB Bangkok Blockathon 2023.
+# Anima App exported vue code
+This package was generated automatically with [Anima App](https://www.animaapp.com).
+## Instructions
+```
+cd package_code
+npm install
+npm start
+```
+Open [http://localhost:8080](http://localhost:8080).
